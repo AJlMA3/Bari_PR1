@@ -1,5 +1,5 @@
 # Практическая работа №1
-Задание:
+#### Задание:
 <img width="581" height="152" alt="image" src="https://github.com/user-attachments/assets/35afda52-b0b5-4ad2-9dc2-1d34ca81d65c" />
 
 Результаты выполнения программы (Рисунок 1 – 5):
