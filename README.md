@@ -9,11 +9,14 @@
 #### Рисунок 1 – Общий вид программы
 <img src="https://github.com/user-attachments/assets/807e2d75-a8af-40ec-95e0-da1539151a9d" width="300" />
 
-#### Рисунок 2 – Горизонтальная разметка программы
-<img src="https://github.com/user-attachments/assets/ae5f639f-f7d2-4256-a06a-011152994a4a" width="500" />
+#### Рисунок 2 – Выполнение расчетов при X<9 (первая ветвь)
+<img src="https://github.com/user-attachments/assets/fb86edb9-f0b2-44e6-8855-ff7d5c84cc09" width="500" />
 
-#### Рисунок 3 – Выполнение расчетов (горизонтальная)
-<img src="https://github.com/user-attachments/assets/e1336918-f220-4086-b7bd-9fd3ce1517bf" width="500" />
+#### Рисунок 3 – Выполнение расчетов при X = 9 (первая ветвь)
+<img src="https://github.com/user-attachments/assets/9facf208-509c-4956-8722-ceb162ae2e0d" width="500" />
 
-#### Рисунок 4 – Поворот экрана с сохранением данных
-<img src="https://github.com/user-attachments/assets/f37fee19-b1e4-4d34-9698-b8322d6aaed6" width="300" />
+#### Рисунок 4 – Выполнение расчетов при X>9 (вторая ветвь)
+<img src="https://github.com/user-attachments/assets/a283f8b1-1586-4cca-8a34-1b69d6e82de6" width="300" />
+
+#### Рисунок 5 – Попытка расчета без данных
+<img src="https://github.com/user-attachments/assets/dd9e2311-feac-4b90-888d-168f7c9492c6" width="300" />
